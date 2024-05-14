@@ -3,6 +3,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardaamaral@ucl.br?subject=&body=)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/leonardaamaral)
 
-![Leonarda GitHub stats](https://github-readme-stats.vercel.app/api?username=le-amaral&show_icons=true&theme=dark)
+![Leonarda GitHub stats](https://github-readme-stats.vercel.app/api?username=le-amaral&show_icons=true&theme=dracula)
 
 
