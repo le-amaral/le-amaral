@@ -17,3 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/leonardaamaral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/ in/leonardaamaral" height="30" width="40" /></a>
 </p>
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=le-amaral&show_icons=true&locale=en&layout=compact" alt="le-amaral" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=le-amaral&show_icons=true&locale=en" alt="le-amaral" /></p>
