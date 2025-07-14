@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou a Leonarda Amaral</h1>
-<h3 align="center">Profissional Junior em desenvolvimento FullStack e UX/UI Design</h3>
+<h1 align="center">Hi 👋, I am Leonarda Amaral</h1>
+<h3 align="center">Backend Developer Junior & UX/UI Design</h3>
 
 - 🔭 Atualmente finalizei um projeto opensourse criando um serviço de API. [Concursou](https://github.com/le-amaral/venhaparaoleds-leonarda/tree/docs/readme-final)
 
